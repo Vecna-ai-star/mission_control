@@ -5,7 +5,7 @@
       "args": ["../mcp/server.js"],
       "description": "Mission Control MCP (via Vercel API)",
       "env": {
-        "MISSION_CONTROL_API_BASE": "REPLACE_WITH_VERCEL_URL",
+        "MISSION_CONTROL_API_BASE": "https://mission-control-pearl.vercel.app",
         "MISSION_CONTROL_BOARD_ID": "c9efc4f9-4ef9-4af5-9d5a-db208efb935c"
       }
     }
